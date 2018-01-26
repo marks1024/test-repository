@@ -1,2 +1,4 @@
 Roses are red,
 Violets are blue
+Carrots are orange
+Apples are too.
